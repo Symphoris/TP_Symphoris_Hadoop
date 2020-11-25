@@ -1,0 +1,7 @@
+{
+  "inputPath": "donnees.csv",
+  "filterColumn": "clientId",
+  "filterValue": "292494523",
+  "outputFormat": "donnees.csv",
+  "outputPath": "result"
+}
